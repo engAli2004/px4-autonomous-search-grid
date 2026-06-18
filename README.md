@@ -1,5 +1,7 @@
 # Autonomous UAV Search Grid Controller (ROS 2 & PX4)
+## Simulation Demonstration
 
+<video src="PASTE_YOUR_GITHUB_LINK_HERE" controls="controls" muted="muted" width="100%"></video>
 ## Overview
 This repository contains the software architecture and path-planning logic for an autonomous Unmanned Aerial Vehicle (UAV). This project demonstrates a headless, offboard control system that generates and mathematically verifies a dynamic Boustrophedon (lawnmower) search grid.
 
